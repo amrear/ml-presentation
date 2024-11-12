@@ -1,0 +1,38 @@
+\contentsline {section}{\numberline {1}مقدمه}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}تعریف یادگیری ماشین}{2}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}یادگیری ماشین چیست؟}{2}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}مفاهیم کلیدی یادگیری ماشین}{2}{subsubsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.2}هوش مصنوعی و طبیعی}{2}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}تفاوت بین هوش مصنوعی و هوش طبیعی}{2}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}نحوه یادگیری انسان‌ها در مقابل \lr {AI}}{2}{subsubsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.3}الگوریتم های یادگیری ماشین}{3}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}\lr {Supervised learning}}{3}{subsubsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}\lr {Unsupervised learning}}{3}{subsubsection.1.3.2}%
+\contentsline {subsubsection}{\numberline {1.3.3}\lr {Reinforcement learning}}{3}{subsubsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.4}یادگیری ماشین چگونه اتفاق می افتد}{4}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}مدل یادگیری ماشین چیست}{5}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}کاربرد های یادگیری ماشین}{6}{subsection.1.6}%
+\contentsline {subsubsection}{\numberline {1.6.1}بهداشت و درمان}{6}{subsubsection.1.6.1}%
+\contentsline {subsubsection}{\numberline {1.6.2}مالی}{6}{subsubsection.1.6.2}%
+\contentsline {subsubsection}{\numberline {1.6.3}بازاریابی و فروش}{7}{subsubsection.1.6.3}%
+\contentsline {subsubsection}{\numberline {1.6.4}خرده‌فروشی}{7}{subsubsection.1.6.4}%
+\contentsline {subsection}{\numberline {1.7}مباحث اخلاقی}{7}{subsection.1.7}%
+\contentsline {subsubsection}{\numberline {1.7.1}شفافیت}{7}{subsubsection.1.7.1}%
+\contentsline {subsubsection}{\numberline {1.7.2}عدالت و بی‌طرفی}{7}{subsubsection.1.7.2}%
+\contentsline {subsubsection}{\numberline {1.7.3}حریم خصوصی و امنیت}{7}{subsubsection.1.7.3}%
+\contentsline {subsubsection}{\numberline {1.7.4}فایده و رفاه}{7}{subsubsection.1.7.4}%
+\contentsline {section}{\numberline {2}رگرسیون}{8}{section.2}%
+\contentsline {subsection}{\numberline {2.1}مقدمه}{8}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}کاربردهای رگرسیون}{8}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}ارزیابی مدل}{8}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}یادگیری مدل چگونه رخ می‌دهد}{9}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}بیش‌برازش و کم‌برازش \lr {(Overfitting \& Underfitting)}}{10}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}نقاط پرت (\lr {Outliers})}{12}{subsection.2.6}%
+\contentsline {section}{\numberline {3}دسته‌ بندی}{13}{section.3}%
+\contentsline {subsection}{\numberline {3.1}مقدمه}{13}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}انواع دسته‌ بندی}{13}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}دسته‌ بندی دودوی}{13}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}دسته‌ بندی چند کلاسه}{13}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}دسته‌ بندی چند دسته‌ای}{15}{subsubsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.3}نگاهی عمیق تر به دسته‌ بندی دودوی}{15}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}ارزیابی مدل}{22}{subsection.3.4}%

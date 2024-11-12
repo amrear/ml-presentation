@@ -1,0 +1,309 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LinearRegression/005c716040ba3cda79b17b1da3be29bf50e13e04e1b41d741892c697ae55b79f.mp4",
+      "rev_file": "slides/files/LinearRegression/005c716040ba3cda79b17b1da3be29bf50e13e04e1b41d741892c697ae55b79f_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LinearRegression/7dba938bb729dd668fb230a725321e9f4b225675ed0a84f4d59fc98fdd9c2d23.mp4",
+      "rev_file": "slides/files/LinearRegression/7dba938bb729dd668fb230a725321e9f4b225675ed0a84f4d59fc98fdd9c2d23_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LinearRegression/511296505ec51eec0d4c922a691a3d16a47297ee316322ec4a05e132e3280c8b.mp4",
+      "rev_file": "slides/files/LinearRegression/511296505ec51eec0d4c922a691a3d16a47297ee316322ec4a05e132e3280c8b_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LinearRegression/776390452d780ab8c8d6d5892bc041ea70685b5cda75a9215953b778be79e6be.mp4",
+      "rev_file": "slides/files/LinearRegression/776390452d780ab8c8d6d5892bc041ea70685b5cda75a9215953b778be79e6be_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LinearRegression/8ce24c4493821cc1576b0ff470135d3f8bd105d892c37957113c89633238d72e.mp4",
+      "rev_file": "slides/files/LinearRegression/8ce24c4493821cc1576b0ff470135d3f8bd105d892c37957113c89633238d72e_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LinearRegression/9415818a3778bda1f08458c47432160422b832efd215c7e0d626e4c695e5a6ea.mp4",
+      "rev_file": "slides/files/LinearRegression/9415818a3778bda1f08458c47432160422b832efd215c7e0d626e4c695e5a6ea_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LinearRegression/3b925799f66c226adf2a395cabb5f9891704d5ba8523bad55f914e66692662d1.mp4",
+      "rev_file": "slides/files/LinearRegression/3b925799f66c226adf2a395cabb5f9891704d5ba8523bad55f914e66692662d1_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LinearRegression/5c9a469dbdbc2c884a0b27247f60a24e527b777418b2536020962b3c154c641d.mp4",
+      "rev_file": "slides/files/LinearRegression/5c9a469dbdbc2c884a0b27247f60a24e527b777418b2536020962b3c154c641d_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LinearRegression/e649562c689294273753d8ff4e700c4d7c6acb6aa428f744442c0fee000aa503.mp4",
+      "rev_file": "slides/files/LinearRegression/e649562c689294273753d8ff4e700c4d7c6acb6aa428f744442c0fee000aa503_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LinearRegression/278131ac1840393d3cdc35454f07dca6b5305ad5e81e53cf59ac290fcf08af0e.mp4",
+      "rev_file": "slides/files/LinearRegression/278131ac1840393d3cdc35454f07dca6b5305ad5e81e53cf59ac290fcf08af0e_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LinearRegression/b2b3e0b5e575280269e5de5c8939c8a72c93ade58f9f274ba56f47584014ba6c.mp4",
+      "rev_file": "slides/files/LinearRegression/b2b3e0b5e575280269e5de5c8939c8a72c93ade58f9f274ba56f47584014ba6c_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LinearRegression/14ed4e386b7f095b57740a407b2367a882bd50f5c2be72fc3547ab249cd02114.mp4",
+      "rev_file": "slides/files/LinearRegression/14ed4e386b7f095b57740a407b2367a882bd50f5c2be72fc3547ab249cd02114_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LinearRegression/55453a6bb86ef8716ffb7c506e9b8cabc9856da99bcb41e0ee4e7cad86b32740.mp4",
+      "rev_file": "slides/files/LinearRegression/55453a6bb86ef8716ffb7c506e9b8cabc9856da99bcb41e0ee4e7cad86b32740_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LinearRegression/c0ca56bbbe58e029aa13bbd01e305d4be55172da6bab86e9e76308bc571c75cf.mp4",
+      "rev_file": "slides/files/LinearRegression/c0ca56bbbe58e029aa13bbd01e305d4be55172da6bab86e9e76308bc571c75cf_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LinearRegression/c8d8a765e36a1e424ea6dfbc70e8da1d272d6c49fc637e430b644341738cfd4b.mp4",
+      "rev_file": "slides/files/LinearRegression/c8d8a765e36a1e424ea6dfbc70e8da1d272d6c49fc637e430b644341738cfd4b_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LinearRegression/eab786e2d89abc64c06011f7fc3d9d171d2cf81b466800c0a2e9dd7c17871658.mp4",
+      "rev_file": "slides/files/LinearRegression/eab786e2d89abc64c06011f7fc3d9d171d2cf81b466800c0a2e9dd7c17871658_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LinearRegression/c9378cd896fe71653c944c87593271a57ffafaa8de7e52ea12d8f8354756e2b7.mp4",
+      "rev_file": "slides/files/LinearRegression/c9378cd896fe71653c944c87593271a57ffafaa8de7e52ea12d8f8354756e2b7_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LinearRegression/1a56bcaa3b0265e034d1ddf11b9bab58ba051431cc1761ace8e8d70c2595be32.mp4",
+      "rev_file": "slides/files/LinearRegression/1a56bcaa3b0265e034d1ddf11b9bab58ba051431cc1761ace8e8d70c2595be32_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LinearRegression/19be4ff1dad6462ed37df873932da103991c898d2382cd5c251f77d16360ff93.mp4",
+      "rev_file": "slides/files/LinearRegression/19be4ff1dad6462ed37df873932da103991c898d2382cd5c251f77d16360ff93_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LinearRegression/bd0282380fa436556239fe5a8542fb47d57e550452e4147f6645bf0b38aa7b53.mp4",
+      "rev_file": "slides/files/LinearRegression/bd0282380fa436556239fe5a8542fb47d57e550452e4147f6645bf0b38aa7b53_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LinearRegression/c8bec347399a44814101081b174a6a3d5d02cd63e332baa9ed9f84730b6a80b3.mp4",
+      "rev_file": "slides/files/LinearRegression/c8bec347399a44814101081b174a6a3d5d02cd63e332baa9ed9f84730b6a80b3_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LinearRegression/576a6761888b00839206ba82028e4f3bc90dd11211ff8c762c246398a5a1f42e.mp4",
+      "rev_file": "slides/files/LinearRegression/576a6761888b00839206ba82028e4f3bc90dd11211ff8c762c246398a5a1f42e_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LinearRegression/0100f4e69ac4bcbc73a40196f9e94337cbc8c409b3ae82516c23c5a31b677261.mp4",
+      "rev_file": "slides/files/LinearRegression/0100f4e69ac4bcbc73a40196f9e94337cbc8c409b3ae82516c23c5a31b677261_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LinearRegression/12b747efe3a608e476a537dbe2232089f1261a4aeeb0ea27ef9e44a4f9ac05b4.mp4",
+      "rev_file": "slides/files/LinearRegression/12b747efe3a608e476a537dbe2232089f1261a4aeeb0ea27ef9e44a4f9ac05b4_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LinearRegression/b8989342ab524c271bbbc70152b02067b0ff78467fbe1c740df03cdf77b171ee.mp4",
+      "rev_file": "slides/files/LinearRegression/b8989342ab524c271bbbc70152b02067b0ff78467fbe1c740df03cdf77b171ee_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LinearRegression/c39ed3cd4129ed9c8585ddfc9060a9c2a9f7dd11b602ad8371b0fa36ae231232.mp4",
+      "rev_file": "slides/files/LinearRegression/c39ed3cd4129ed9c8585ddfc9060a9c2a9f7dd11b602ad8371b0fa36ae231232_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LinearRegression/1547139c4cd869928aefff1338f86d10245fad64403f734fdf69e1b1921c4e60.mp4",
+      "rev_file": "slides/files/LinearRegression/1547139c4cd869928aefff1338f86d10245fad64403f734fdf69e1b1921c4e60_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LinearRegression/565f4679dce6fa25d7ed3dc1a28face8dd4f96f27a08caed450471ba31af5545.mp4",
+      "rev_file": "slides/files/LinearRegression/565f4679dce6fa25d7ed3dc1a28face8dd4f96f27a08caed450471ba31af5545_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LinearRegression/850cf36edc567b898397e243338fb8f692ecedb9ba586c58a8a26526f72c8556.mp4",
+      "rev_file": "slides/files/LinearRegression/850cf36edc567b898397e243338fb8f692ecedb9ba586c58a8a26526f72c8556_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LinearRegression/3aa990aa9f89bfc1076f9a3a986ad1c4212cc883d59d40b2421d9bcdbb7b1438.mp4",
+      "rev_file": "slides/files/LinearRegression/3aa990aa9f89bfc1076f9a3a986ad1c4212cc883d59d40b2421d9bcdbb7b1438_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "black"
+}
